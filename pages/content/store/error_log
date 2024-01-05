@@ -1,0 +1,6 @@
+[28-Dec-2023 13:20:13 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/recj5556/public_html/pages/core/header.php on line 9
+[28-Dec-2023 13:20:13 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/recj5556/public_html/pages/core/header.php on line 10
+[28-Dec-2023 13:20:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/recj5556/public_html/pages/core/header.php on line 17
+[28-Dec-2023 13:20:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/recj5556/public_html/pages/core/header.php on line 19
+[28-Dec-2023 13:20:13 UTC] PHP Warning:  require_once(connection.php): failed to open stream: No such file or directory in /home/recj5556/public_html/pages/content/store/create.php on line 7
+[28-Dec-2023 13:20:13 UTC] PHP Fatal error:  require_once(): Failed opening required 'connection.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/recj5556/public_html/pages/content/store/create.php on line 7

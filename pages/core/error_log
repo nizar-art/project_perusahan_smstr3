@@ -1,0 +1,26 @@
+[29-Dec-2023 05:53:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/recj5556/public_html/pages/core/create.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/recj5556/public_html/pages/core/create.php on line 33
+[29-Dec-2023 05:55:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/recj5556/public_html/pages/core/create.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/recj5556/public_html/pages/core/create.php on line 33
+[29-Dec-2023 05:56:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/recj5556/public_html/pages/core/create.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/recj5556/public_html/pages/core/create.php on line 33
+[29-Dec-2023 05:59:33 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /home/recj5556/public_html/pages/core/create.php on line 32
+[29-Dec-2023 05:59:33 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /home/recj5556/public_html/pages/core/create.php on line 33
+[29-Dec-2023 06:02:24 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /home/recj5556/public_html/pages/core/create.php on line 32
+[29-Dec-2023 06:02:24 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /home/recj5556/public_html/pages/core/create.php on line 33
+[29-Dec-2023 06:03:52 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /home/recj5556/public_html/pages/core/create.php on line 32
+[29-Dec-2023 06:03:52 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /home/recj5556/public_html/pages/core/create.php on line 33
+[29-Dec-2023 06:06:34 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /home/recj5556/public_html/pages/core/create.php on line 35
+[29-Dec-2023 06:06:34 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /home/recj5556/public_html/pages/core/create.php on line 36
+[29-Dec-2023 06:20:11 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /home/recj5556/public_html/pages/core/create.php on line 33
+[29-Dec-2023 06:20:11 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /home/recj5556/public_html/pages/core/create.php on line 34
+[29-Dec-2023 06:23:15 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /home/recj5556/public_html/pages/core/create.php on line 33
+[29-Dec-2023 06:23:15 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /home/recj5556/public_html/pages/core/create.php on line 34
+[29-Dec-2023 06:24:53 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /home/recj5556/public_html/pages/core/create.php on line 33
+[29-Dec-2023 06:24:53 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /home/recj5556/public_html/pages/core/create.php on line 34
