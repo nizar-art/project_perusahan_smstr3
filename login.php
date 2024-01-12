@@ -1,4 +1,5 @@
 <?php
+// Memasukkan file koneksi
 @include './pages/core/connection.php';
 session_start();
 

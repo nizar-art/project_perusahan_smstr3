@@ -1,5 +1,4 @@
 <?php
-session_start();
 
 $ds = DIRECTORY_SEPARATOR;
 $base_dir = realpath(dirname(__FILE__)  . $ds . '../../../') . $ds;
@@ -170,6 +169,7 @@ require_once("{$base_dir}pages{$ds}core{$ds}header.php");
   </section>
 
 </main><!-- End #main -->
+
 
 
 <?php

@@ -15,7 +15,7 @@ class DatabaseManager
 
   public function getProducts()
   {
-    return $this->executeQuery("SELECT id_pesan, merk, detail, token, price, status FROM service_requests ORDER BY id_pesan ASC");
+    return $this->executeQuery("SELECT id_pesan, merk, detail, token, price, status FROM service_requests WHERE nama_lengkap = 'reffi fauzi' ORDER BY id_pesan ASC");
   }
 }
 

@@ -1,5 +1,4 @@
 <?php
-session_start();
 
 $ds = DIRECTORY_SEPARATOR;
 $base_dir = realpath(dirname(__FILE__)  . $ds . '../../../') . $ds;

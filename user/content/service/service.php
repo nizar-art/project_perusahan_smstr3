@@ -94,7 +94,7 @@ $token = uniqid();
                 <b>
                   <p class="text-center">Data Pribadi: </p>
                 </b>
-                <input type="text" name="nama_lengkap" class="form-control" placeholder="Nama Lengkap" value="">
+                <input type="text" name="nama_lengkap" class="form-control" placeholder="Nama Lengkap" value="" required redo>
               </div>
               <br>
               <div class="row">
